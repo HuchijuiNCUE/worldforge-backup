@@ -1,0 +1,5 @@
+{
+  "name": "worldforge-map-atelier",
+  "main": "dist/server/index.js",
+  "compatibility_date": "2026-11-11"
+}
